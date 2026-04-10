@@ -9,7 +9,7 @@ A lightweight Retrieval-Augmented Generation (RAG) app for exploring and queryin
 
 ## Overview
 
-This project indexes a local code directory, stores semantic embeddings using FAISS, and allows you to ask questions about the code through a simple Streamlit chat interface.
+This project indexes a local code directory, stores semantic embeddings using FAISS, and allows you to ask questions about the "python code" ??? through a simple Streamlit chat interface.
 
 It is designed to run locally using Ollama(Gemma4:e2) by default, while also supporting OpenAI-compatible APIs through environment configuration.
 
