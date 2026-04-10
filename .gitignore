@@ -1,3 +1,27 @@
+--------------Specific to this project------------- 
+
+# Project-specific generated files
+*.faiss
+metadata.npy
+
+# Streamlit local settings/state
+.streamlit/
+
+# Optional local env variants
+.env.local
+.env.*.local
+
+# macOS / editor clutter
+.DS_Store
+
+# Optional IDE folders
+.vscode/
+.idea/
+
+
+
+--------------Python .gitignore------------- 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
