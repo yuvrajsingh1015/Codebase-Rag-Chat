@@ -2,6 +2,8 @@
 
 🚧 Work in progress — core functionality will be updates soon :)
 
+//imrovements : ai cleint using requests
+
 
 # local-coderag
 
